@@ -109,12 +109,11 @@ color: var(--cor-secundaria);
 .rodape {
     background-color: var(--cor-hover);
     color: var(--cor-terciaria);
-    display: flex;
-    justify-content: center;
     font-family: 'Krona One', sans-serif;
-    font-size: 1rem;
+    font-size: 1,5rem;
     font-weight: 400;
-    padding: 1%;
+    padding: 24px;
+    text-align: center;
 
 
 }
@@ -144,7 +143,4 @@ color: var(--cor-secundaria);
         width: auto;
     }
 
-    .apresentacao__imagem {
-        width: 25%;
-    }
 }
